@@ -2,6 +2,8 @@
 
 Page de préparation pour les 12 et 13 décembre 2026, au départ de Lyon. Public : adultes, adolescents et enfants. Aucun achat ni réservation.
 
+La rubrique « Aéroport–hôtel » décrit le train vers Manchester Piccadilly, un arrêt de tram vers New Islington et la marche jusqu’au 2 Pollard Street. Alternatives : train puis marche, ou tram via Market Street. Durées estimées et sources officielles incluses ; horaires du 12 décembre et tarifs du groupe à vérifier.
+
 Site : https://dev75008.github.io/mancity/
 
 ## Mise à jour des données
