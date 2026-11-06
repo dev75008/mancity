@@ -19,7 +19,8 @@ body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.6 va
 .trip-header { display: grid; grid-template-columns: minmax(0, 1fr) 180px; align-items: center; gap: 32px; padding: 36px 40px; background: var(--sky); color: var(--navy); border-radius: 12px; }
 .association { margin: 0; text-align: center; }
 .association img { display: block; width: 100%; height: auto; }
-.association figcaption { margin-top: 8px; font-size: 14px; }
+/* Compense l’espace transparent sous le cœur dans le PNG fourni. */
+.association figcaption { margin-top: -22%; font-size: 14px; }
 .association a { color: inherit; text-underline-offset: 4px; }
 .association a:hover { text-decoration-thickness: 2px; }
 .association a:focus-visible { outline: 3px solid var(--navy); outline-offset: 4px; }
