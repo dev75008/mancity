@@ -8,6 +8,8 @@ Site : https://dev75008.github.io/mancity/
 
 ## Mise à jour des données
 
+Le 6 novembre 2026, ajout de la capture originale fournie par l’organisateur pour le vol aller Jet2 LS946 du samedi 12 décembre : Lyon 10 h 45, Manchester 11 h 45, direct, 2 h, classe économique, statut « Programmé ». Aucun prix sur la capture ; l’ancien tarif de 93 € a été retiré de la fiche aller. Image : `assets/vol-aller-jet2-ls946.png`. Cette capture ne prouve pas une réservation.
+
 Recherche du 30 octobre 2026. Les tarifs des vols sont des offres indexées, pas un devis garanti. Le retour direct du 13 décembre est contradictoire selon les sources ; cette incertitude figure sur la page. Les hôtels ont été recherchés via Booking.com pour deux adultes, une chambre, une nuit du 12 au 13 décembre 2026. Effectifs et âges exacts restent à préciser.
 
 Sources principales :
