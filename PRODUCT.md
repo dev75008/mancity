@@ -16,7 +16,7 @@ HTML et CSS statiques, GitHub Pages dans dev75008/mancity.
 
 ## Users
 
-Groupes : 17 personnes au départ de Lyon, 4 personnes arrivant de Paris et 2 personnes arrivant de Grenoble. Aucune répartition adultes/enfants affichée. Mentions explicitement demandées par l’organisateur pour la page. Aucun nom ni renseignement individuel de mineur à publier.
+Groupes : 17 personnes au départ de Lyon, 4 personnes arrivant de Paris le vendredi 11 décembre 2026 et 2 personnes arrivant de Grenoble. Aucune répartition adultes/enfants affichée. Mentions explicitement demandées par l’organisateur pour la page. Aucun nom ni renseignement individuel de mineur à publier.
 
 ## Capabilities and Constraints
 
