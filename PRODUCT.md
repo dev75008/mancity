@@ -24,4 +24,6 @@ Hôtel retenu : ibis budget Manchester Centre Pollard Street, 2 Pollard St, Manc
 
 ## Evidence on Hand
 
+Capture fournie pour les 2 personnes de Grenoble : Ryanair FR1431, Grenoble (GNB) vers Manchester (MAN), samedi 12 décembre 2026, départ 13 h 30 et arrivée 14 h 30, horaires locaux. Aucun identifiant de réservation à publier.
+
 Captures fournies le 6 novembre 2026 : aller Jet2 LS946 le 12 décembre, Lyon 10 h 45, Manchester 11 h 45 ; retour Brussels Airlines le 13 décembre, Manchester 17 h 25, Bruxelles 19 h 50 à 21 h 05, Lyon 22 h 30.

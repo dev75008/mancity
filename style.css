@@ -36,6 +36,9 @@ h2 { margin: 0; font-size: 32px; }
 .flight > div { display: flex; flex-direction: column; }
 .time { font-size: 30px; line-height: 1.4; font-variant-numeric: tabular-nums; }
 .flight span { font-size: 16px; }
+.flight-group { margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--line); }
+.flight-group h3 { margin: 0; font-size: 21px; line-height: 1.4; }
+.flight-group p { margin: 8px 0 20px; font-size: 16px; }
 .stay { background: var(--pale); border-radius: 12px; }
 .stay h3 { margin: 20px 0 8px; font-size: 23px; line-height: 1.4; }
 address { font-style: normal; }

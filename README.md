@@ -13,6 +13,7 @@ Le cœur de l’association et la photo de Rayan Cherki, fournis par l’organis
 - Hôtel–Etihad Stadium : environ 25 minutes à pied, estimation arrondie du trajet annoncé à 24 minutes par [Rome2Rio](https://www.rome2rio.com/s/ibis-Budget-Manchester-Centre-Pollard-Street/Etihad-Stadium-Etihad-Campus-Manchester-M11-3FF-UK). Le temps dépend de l’allure et de l’entrée du stade ; lien vers l’itinéraire piéton ajouté à la page.
 - Match : Manchester City–Chelsea, samedi 12 décembre 2026 à l’Etihad Stadium, 17 h 30 à Manchester / 18 h 30 en France (CET). Capture fournie par l’organisateur : assets/match-manchester-city-chelsea.png.
 - Aller du 12 décembre : Jet2 LS946, Lyon 10 h 45, Manchester 11 h 45.
+- Aller des 2 personnes depuis Grenoble le 12 décembre : Ryanair FR1431, Grenoble (GNB) 13 h 30, Manchester (MAN) 14 h 30, horaires locaux. Synthèse de la capture fournie par l’organisateur ; aucun numéro de réservation publié.
 - Retour du 13 décembre : Brussels Airlines, Manchester 17 h 25, Bruxelles 19 h 50 puis 21 h 05, Lyon 22 h 30.
 
 Les horaires proviennent des captures fournies le 6 novembre 2026, conservées dans assets/. Aucun achat effectué par l’agent.
