@@ -16,7 +16,13 @@ html, body { overflow-x: clip; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.6 var(--font); }
 ::selection { background: var(--navy); color: var(--paper); }
 .trip { width: min(880px, calc(100% - 48px)); margin: 48px auto; }
-.trip-header { padding: 36px 40px; background: var(--sky); color: var(--navy); border-radius: 12px; }
+.trip-header { display: grid; grid-template-columns: minmax(0, 1fr) 180px; align-items: center; gap: 32px; padding: 36px 40px; background: var(--sky); color: var(--navy); border-radius: 12px; }
+.association { margin: 0; text-align: center; }
+.association img { display: block; width: 100%; height: auto; }
+.association figcaption { margin-top: 8px; font-size: 14px; }
+.association a { color: inherit; text-underline-offset: 4px; }
+.association a:hover { text-decoration-thickness: 2px; }
+.association a:focus-visible { outline: 3px solid var(--navy); outline-offset: 4px; }
 h1, h2 { font-family: var(--display); font-weight: 400; line-height: 1.15; text-wrap: balance; }
 h1 { margin: 0 0 12px; font-size: clamp(34px, 5vw, 52px); letter-spacing: -.025em; }
 .trip-dates { margin: 0; font-size: 22px; }
@@ -35,13 +41,22 @@ address { font-style: normal; }
 .stay p { margin: 16px 0 0; color: var(--muted); font-size: 16px; }
 .connection { margin: 20px 0; padding-block: 12px; border-block: 1px solid var(--line); color: var(--muted); font-size: 15px; }
 .local-times { margin: 0 40px; color: var(--muted); font-size: 14px; }
-.match { border-bottom: 1px solid var(--line); }
+.match { padding: 0; margin-block: 32px 0; overflow: hidden; border-radius: 12px; }
+.cherki-feature { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); background: var(--navy); color: var(--paper); }
+.cherki-copy { padding: 36px 32px; align-self: center; }
+.cherki-copy h2 { font-size: clamp(32px, 4vw, 42px); }
+.match .cherki-intent { margin: 16px 0 32px; color: var(--pale); }
 .match h3 { margin: 20px 0 12px; font-size: 23px; line-height: 1.4; }
 .match p { margin: 12px 0; }
-.match img { display: block; width: 100%; height: auto; margin-top: 24px; }
+.match .match-time { margin-top: 24px; color: var(--sky); }
+.match img { display: block; width: 100%; height: auto; }
+.match .cherki-photo { height: 100%; object-fit: cover; object-position: center top; }
+.match-schedule { padding: 12px 0; border-bottom: 1px solid var(--line); }
 @media (max-width: 560px) {
   .trip { width: calc(100% - 32px); margin-block: 16px 28px; }
   .trip-header, section { padding: 28px 24px; }
+  .trip-header { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+  .association { width: 176px; justify-self: center; }
   .trip-dates { font-size: 19px; }
   .section-heading { flex-direction: column; gap: 12px; }
   .section-heading p { text-align: left; }
@@ -50,6 +65,10 @@ address { font-style: normal; }
   .flight span { font-size: 15px; }
   .stay h3 { font-size: 21px; }
   .local-times { margin-inline: 24px; }
+  .match { padding: 0; }
+  .cherki-feature { grid-template-columns: minmax(0, 1fr); }
+  .cherki-copy { padding: 28px 24px; }
+  .match .cherki-photo { height: auto; max-height: 520px; object-fit: contain; }
 }
 @media print {
   .trip { width: 100%; margin: 0; }
