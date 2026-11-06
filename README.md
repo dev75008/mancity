@@ -4,7 +4,7 @@ Fiche de séjour pour les 12 et 13 décembre 2026 : vol aller Jet2, hôtel ibis 
 
 Site : https://dev75008.github.io/mancity/
 
-Le cœur de l’association et la photo de Rayan Cherki, fournis par l’organisateur, sont intégrés sans modification. Le lien www.aidersonprichain.fr figure sous le cœur. Le visuel présente le souhait des enfants de voir Rayan Cherki jouer, sans garantir sa participation au match.
+Le cœur de l’association et la photo de Rayan Cherki, fournis par l’organisateur, sont intégrés sans modification. Le lien www.aidersonprochain.fr figure sous le cœur. Le visuel présente le souhait des enfants de voir Rayan Cherki jouer, sans garantir sa participation au match.
 
 ## Contenu fourni par l’organisateur
 
