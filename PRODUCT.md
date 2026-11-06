@@ -24,4 +24,4 @@ Publication dans dev75008/mancity. Aucun achat. Prix datés, sources et incertit
 
 ## Evidence on Hand
 
-Calendrier officiel Chelsea, horaires prévisionnels ZborDirect, offres indexées Jet2 et Trip.com, recherche Booking.com datée. Retour dimanche contradictoire. Aucun tarif adolescent confirmé.
+Calendrier officiel Chelsea, recherche Booking.com datée. Captures fournies le 6 novembre 2026 : aller Jet2 LS946 le 12 décembre, 10 h 45 à 11 h 45 ; retour Brussels Airlines SN2178 et SN3593 le 13 décembre, Manchester 17 h 25, Bruxelles 19 h 50 à 21 h 05, Lyon 22 h 30, total 4 h 05, statut « Traitement ». Aucun prix sur les captures et aucun tarif adolescent confirmé.

@@ -10,15 +10,15 @@ Site : https://dev75008.github.io/mancity/
 
 Le 6 novembre 2026, ajout de la capture originale fournie par l’organisateur pour le vol aller Jet2 LS946 du samedi 12 décembre : Lyon 10 h 45, Manchester 11 h 45, direct, 2 h, classe économique, statut « Programmé ». Aucun prix sur la capture ; l’ancien tarif de 93 € a été retiré de la fiche aller. Image : `assets/vol-aller-jet2-ls946.png`. Cette capture ne prouve pas une réservation.
 
-Recherche du 30 octobre 2026. Les tarifs des vols sont des offres indexées, pas un devis garanti. Le retour direct du 13 décembre est contradictoire selon les sources ; cette incertitude figure sur la page. Les hôtels ont été recherchés via Booking.com pour deux adultes, une chambre, une nuit du 12 au 13 décembre 2026. Effectifs et âges exacts restent à préciser.
+Le 6 novembre 2026, remplacement du retour provisoire easyJet par la capture fournie pour Brussels Airlines le dimanche 13 décembre 2026 : SN2178, Manchester (MAN) terminal 2 à 17 h 25, Bruxelles (BRU) à 19 h 50 ; correspondance avec changement d’avion de 1 h 15 ; SN3593, Bruxelles à 21 h 05, Lyon (LYS) terminal 1 à 22 h 30. Durée totale : 4 h 05, classe économique. Statut affiché « Traitement », aucun prix ni confirmation de réservation. Image : `assets/vol-retour-brussels-airlines.png`. Programme du dimanche mis à jour en conséquence.
+
+Les hôtels ont été recherchés le 30 octobre 2026 via Booking.com pour deux adultes, une chambre, une nuit du 12 au 13 décembre 2026. Effectifs et âges exacts restent à préciser.
 
 Sources principales :
 
 - [Chelsea : horaire officiel du match](https://www.chelseafc.com/en/news/article/four-chelsea-december-fixtures-moved-for-tv)
 - [Programme aller](https://zbordirect.com/en/tools/schedule?arrival_city=MAN&departure_city=LYS)
-- [Programme retour](https://zbordirect.com/en/tools/schedule?arrival_city=LYS&departure_city=MAN)
-- [Jet2 : offre Lyon–Manchester](https://www.jet2.com/en/flights/uk/manchester?lang=EN)
-- [Trip.com : offres retour à confirmer](https://fr.trip.com/flights/manchester-to-lyon/airfares-man-lys/)
+- Captures originales de l’aller Jet2 et du retour Brussels Airlines fournies par l’organisateur le 6 novembre 2026, dans `assets/`.
 - Booking.com : liens datés propres à chaque hébergement sur la page.
 
 ## Développement
