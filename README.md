@@ -10,6 +10,7 @@ Le cœur de l’association et la photo de Rayan Cherki, fournis par l’organis
 
 - Groupe au départ de Lyon : 19 personnes, soit 11 adultes et 8 enfants malades. Groupe arrivant de Paris : 2 adultes et 2 enfants. Informations explicitement fournies pour la page.
 - Hôtel : ibis budget Manchester Centre Pollard Street, 2 Pollard St, Manchester M4 7DB, Royaume-Uni.
+- Hôtel–Etihad Stadium : environ 25 minutes à pied, estimation arrondie du trajet annoncé à 24 minutes par [Rome2Rio](https://www.rome2rio.com/s/ibis-Budget-Manchester-Centre-Pollard-Street/Etihad-Stadium-Etihad-Campus-Manchester-M11-3FF-UK). Le temps dépend de l’allure et de l’entrée du stade ; lien vers l’itinéraire piéton ajouté à la page.
 - Match : Manchester City–Chelsea, samedi 12 décembre 2026 à l’Etihad Stadium, 17 h 30 à Manchester / 18 h 30 en France (CET). Capture fournie par l’organisateur : assets/match-manchester-city-chelsea.png.
 - Aller du 12 décembre : Jet2 LS946, Lyon 10 h 45, Manchester 11 h 45.
 - Retour du 13 décembre : Brussels Airlines, Manchester 17 h 25, Bruxelles 19 h 50 puis 21 h 05, Lyon 22 h 30.

@@ -40,6 +40,8 @@ h2 { margin: 0; font-size: 32px; }
 .stay h3 { margin: 20px 0 8px; font-size: 23px; line-height: 1.4; }
 address { font-style: normal; }
 .stay p { margin: 16px 0 0; color: var(--muted); font-size: 16px; }
+.stay a { color: inherit; text-underline-offset: 4px; }
+.stay a:focus-visible { outline: 3px solid var(--navy); outline-offset: 4px; }
 .connection { margin: 20px 0; padding-block: 12px; border-block: 1px solid var(--line); color: var(--muted); font-size: 15px; }
 .local-times { margin: 0 40px; color: var(--muted); font-size: 14px; }
 .match { padding: 0; margin-block: 32px 0; overflow: hidden; border-radius: 12px; }
