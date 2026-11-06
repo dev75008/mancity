@@ -8,7 +8,7 @@ Le cœur de l’association et la photo de Rayan Cherki, fournis par l’organis
 
 ## Contenu fourni par l’organisateur
 
-- Groupe de 18 personnes : 10 adultes et 8 enfants malades, mention explicitement demandée pour la page.
+- Groupe au départ de Lyon : 19 personnes, soit 11 adultes et 8 enfants malades. Groupe arrivant de Paris : 2 adultes et 2 enfants. Informations explicitement fournies pour la page.
 - Hôtel : ibis budget Manchester Centre Pollard Street, 2 Pollard St, Manchester M4 7DB, Royaume-Uni.
 - Match : Manchester City–Chelsea, samedi 12 décembre 2026 à l’Etihad Stadium, 17 h 30 à Manchester / 18 h 30 en France (CET). Capture fournie par l’organisateur : assets/match-manchester-city-chelsea.png.
 - Aller du 12 décembre : Jet2 LS946, Lyon 10 h 45, Manchester 11 h 45.

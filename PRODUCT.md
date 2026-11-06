@@ -16,7 +16,7 @@ HTML et CSS statiques, GitHub Pages dans dev75008/mancity.
 
 ## Users
 
-Groupe de 18 personnes : 10 adultes et 8 enfants malades, mention explicitement demandée par l’organisateur pour la page. Aucun nom ni renseignement individuel de mineur à publier.
+Groupe au départ de Lyon : 19 personnes, soit 11 adultes et 8 enfants malades. Groupe arrivant de Paris : 2 adultes et 2 enfants. Mentions explicitement demandées par l’organisateur pour la page. Aucun nom ni renseignement individuel de mineur à publier.
 
 ## Capabilities and Constraints
 
