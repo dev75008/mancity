@@ -1,11 +1,54 @@
-/* Hallmark: carnet de voyage ; identité bleu ciel, géométrie d’un billet de match. */
+﻿/* Hallmark: carnet de voyage ; identité bleu ciel, géométrie d’un billet de match. */
 /* Critique: priorité aux dates, aux horaires et aux incertitudes de réservation. */
-:root{--sky:#6cabdd;--pale:#eaf4fb;--navy:#092f4f;--ink:#153b54;--muted:#36586f;--paper:#fff;--line:#b9cfde;--warm:#ffebbf;--font:Arial,Helvetica,sans-serif;--display:Georgia,'Times New Roman',serif;--radius:12px}
-*{box-sizing:border-box}html{scroll-behavior:smooth;overflow-x:clip;scroll-padding-top:24px}body{margin:0;overflow-x:clip;background:var(--paper);color:var(--ink);font-family:var(--font);font-size:17px;line-height:1.65}::selection{background:var(--navy);color:var(--paper)}a{color:inherit;text-underline-offset:4px}a:hover{text-decoration-thickness:2px}a:focus-visible,summary:focus-visible{outline:3px solid var(--navy);outline-offset:5px}.wrap{width:min(1180px,calc(100% - 64px));margin-inline:auto}.masthead{display:flex;align-items:center;justify-content:space-between;gap:24px;padding-block:28px}.brand{font-weight:700;text-decoration:none;font-size:20px}.masthead nav{display:flex;gap:26px;font-size:15px}.masthead nav a{text-decoration:none}.skip{position:absolute;left:16px;top:-100px;padding:12px;background:var(--paper);z-index:5}.skip:focus{top:16px}.hero{padding-top:24px;padding-bottom:44px}.ticket{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);background:var(--sky);color:var(--navy);border-radius:var(--radius);overflow:hidden}.ticket-main{padding:48px 56px 52px}.ticket-main h1{font-family:var(--display);font-size:clamp(52px,6.7vw,92px);font-weight:400;line-height:1;letter-spacing:-.035em;margin:0 0 28px;overflow-wrap:break-word;min-width:0}.hero-date{font-size:clamp(21px,2.7vw,31px);font-weight:700;margin:0 0 16px}.ticket-main>p:not(.hero-date){max-width:45ch;margin:0 0 28px}.button{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:11px 22px;background:var(--navy);color:var(--paper);border-radius:6px;font-size:16px;font-weight:700;text-decoration:none}.button:hover{background:var(--ink)}.button:focus-visible{outline-offset:4px}.ticket-stub{padding:45px 36px;border-left:2px dashed var(--navy);display:flex;flex-direction:column;justify-content:space-between}.route{font-size:31px;line-height:1.2;font-weight:700}.ticket-stub dl{margin:26px 0}.ticket-stub dl div{margin-block:18px}.ticket-stub dt{font-size:14px}.ticket-stub dd{margin:0;font-size:24px;line-height:1.3;font-weight:700}.ticket-stub>a{font-size:14px}.caption,.source{font-size:14px;color:var(--muted);line-height:1.65}.caption{margin:14px 0 0}.intro{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);gap:72px;padding-block:38px 52px}.intro h2{font-size:38px;line-height:1.1;font-family:var(--display);font-weight:400;margin:0}.intro p{margin:0 0 20px}.notice{background:var(--warm);padding:20px;border-radius:var(--radius)}.section{padding-block:68px}.section-heading{display:flex;justify-content:space-between;align-items:end;gap:32px;margin-bottom:38px}.section-heading h2{font-family:var(--display);font-size:clamp(38px,5vw,62px);font-weight:400;line-height:1.08;letter-spacing:-.025em;margin:0}.section-heading>p{max-width:44ch;font-size:16px;color:var(--muted);margin:0}.section h3{font-size:24px;line-height:1.35;margin:40px 0 20px}h4{font-size:19px;margin:0}.flight{display:grid;grid-template-columns:minmax(0,1.25fr) repeat(2,minmax(0,1fr));column-gap:26px;row-gap:20px;padding:30px 0;border-top:1px solid var(--line);font-variant-numeric:tabular-nums}.flight span,.hotel-price span{display:block;font-size:14px;color:var(--muted)}.flight strong{display:block}.times strong,.price{font-size:23px;line-height:1.4}.flight p{grid-column:1/4;margin:0;max-width:75ch;font-size:16px}.flight>a{align-self:center;font-size:15px;font-weight:700}.provisional{background:var(--pale);padding:26px;border:0;border-radius:var(--radius)}.secondary{margin-block:8px}.hotel-section{background:var(--pale)}.hotel{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:70px;border-top:1px solid var(--line);padding-block:34px}.hotel h3{margin:8px 0 12px;font-size:29px}.hotel p{margin:0 0 14px;max-width:65ch;font-size:16px}.recommendation{font-size:14px;font-weight:700}.hotel-price{display:flex;flex-direction:column;align-items:flex-end;gap:6px;justify-content:center}.hotel-price>strong{font-size:36px;line-height:1.2;font-variant-numeric:tabular-nums}.hotel-price .button{margin-top:14px}.days{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:84px}.days h3{margin:0 0 24px}.timeline{list-style:none;padding:0;margin:0}.timeline li{padding:0 0 24px 22px;border-left:1px solid var(--line);max-width:55ch;font-size:16px}.timeline li strong{display:block;font-size:18px;margin-bottom:4px}.practical{padding-top:28px}details{border-top:1px solid var(--line);padding-block:20px}summary{cursor:pointer;font-weight:700;font-size:20px;padding-right:12px}details p{max-width:80ch;font-size:16px}footer{background:var(--navy);color:var(--paper);padding-block:42px}footer p:not(.brand),footer a{font-size:14px}footer a:focus-visible{outline-color:var(--sky)}
-.flight-capture{grid-column:1/-1;margin:0}.flight-capture img{display:block;width:100%;max-width:960px;height:auto;border-radius:var(--radius)}.flight-capture figcaption{font-size:14px;color:var(--muted);margin-top:12px}
-.stadium{margin-block:60px 0}.stadium img{display:block;width:100%;height:auto;border-radius:var(--radius)}.stadium figcaption{font-size:14px;color:var(--muted);margin-top:12px}h1,h2{text-wrap:balance}a:active{opacity:.8}
-@media(min-width:1500px){.ticket-main{padding-block:58px}}
-@media(max-width:800px){.wrap{width:calc(100% - 40px)}.masthead{align-items:flex-start;flex-direction:column;gap:16px}.masthead nav{gap:22px;flex-wrap:wrap}.ticket-main{padding:34px}.ticket-stub{padding:30px 24px}.route{font-size:25px}.ticket-stub dd{font-size:21px}.intro{gap:32px}.section-heading{align-items:flex-start;flex-direction:column;gap:20px}.hotel{gap:30px}.flight{column-gap:16px}.times strong,.price{font-size:20px}.days{gap:40px}}
-@media(max-width:540px){.wrap{width:calc(100% - 32px)}.hero{padding-top:4px}.ticket{grid-template-columns:minmax(0,1fr)}.ticket-main{padding:30px 26px 34px}.ticket-main h1{font-size:61px}.ticket-stub{border-left:0;border-top:2px dashed var(--navy);padding:24px 26px}.route{font-size:24px}.route br{display:none}.route br:after{content:' '}.ticket-stub dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:20px 0}.ticket-stub dl div{margin:0}.ticket-stub dl div:last-child{display:none}.ticket-stub dt{font-size:13px}.ticket-stub dd{font-size:20px}.intro{grid-template-columns:minmax(0,1fr);gap:24px;padding-top:6px}.intro h2{font-size:34px}.section{padding-block:44px}.section h3{font-size:23px}.flight{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:18px}.flight>div:first-child{grid-column:1/-1}.flight>div:nth-child(4){grid-column:1/-1}.flight p{grid-column:1/-1}.flight>a{grid-column:1/-1}.flight.provisional{padding:22px}.hotel{grid-template-columns:minmax(0,1fr);gap:24px}.hotel-price{align-items:flex-start}.hotel h3{font-size:27px}.days{grid-template-columns:minmax(0,1fr);gap:36px}.section-heading h2{font-size:43px}summary{font-size:18px}.practical{padding-top:12px}}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-@media print{.masthead nav,.button,.skip{display:none}.wrap{width:100%}.section{padding-block:22px}.ticket{background:var(--pale)}body{font-size:12pt}.ticket-main h1{font-size:40pt}.flight,.hotel,details{break-inside:avoid}footer{background:var(--paper);color:var(--ink)}}
+:root {
+  --sky: #6cabdd;
+  --pale: #eaf4fb;
+  --navy: #092f4f;
+  --ink: #153b54;
+  --muted: #36586f;
+  --paper: #fff;
+  --line: #b9cfde;
+  --font: Arial, Helvetica, sans-serif;
+  --display: Georgia, 'Times New Roman', serif;
+}
+* { box-sizing: border-box; }
+html, body { overflow-x: clip; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.6 var(--font); }
+::selection { background: var(--navy); color: var(--paper); }
+.trip { width: min(880px, calc(100% - 48px)); margin: 48px auto; }
+.trip-header { padding: 36px 40px; background: var(--sky); color: var(--navy); border-radius: 12px; }
+h1, h2 { font-family: var(--display); font-weight: 400; line-height: 1.15; text-wrap: balance; }
+h1 { margin: 0 0 12px; font-size: clamp(34px, 5vw, 52px); letter-spacing: -.025em; }
+.trip-dates { margin: 0; font-size: 22px; }
+.group { margin: 24px 0 0; }
+section { padding: 36px 40px; }
+.section-heading { display: flex; justify-content: space-between; align-items: start; gap: 24px; margin-bottom: 24px; }
+h2 { margin: 0; font-size: 32px; }
+.section-heading p { margin: 0; text-align: right; font-size: 16px; }
+.flight { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
+.flight > div { display: flex; flex-direction: column; }
+.time { font-size: 30px; line-height: 1.4; font-variant-numeric: tabular-nums; }
+.flight span { font-size: 16px; }
+.stay { background: var(--pale); border-radius: 12px; }
+.stay h3 { margin: 20px 0 8px; font-size: 23px; line-height: 1.4; }
+address { font-style: normal; }
+.stay p { margin: 16px 0 0; color: var(--muted); font-size: 16px; }
+.connection { margin: 20px 0; padding-block: 12px; border-block: 1px solid var(--line); color: var(--muted); font-size: 15px; }
+.local-times { margin: 0 40px; color: var(--muted); font-size: 14px; }
+@media (max-width: 560px) {
+  .trip { width: calc(100% - 32px); margin-block: 16px 28px; }
+  .trip-header, section { padding: 28px 24px; }
+  .trip-dates { font-size: 19px; }
+  .section-heading { flex-direction: column; gap: 12px; }
+  .section-heading p { text-align: left; }
+  .flight { gap: 16px; }
+  .time { font-size: 27px; }
+  .flight span { font-size: 15px; }
+  .stay h3 { font-size: 21px; }
+  .local-times { margin-inline: 24px; }
+}
+@media print {
+  .trip { width: 100%; margin: 0; }
+  .trip-header, section { padding: 20px 24px; }
+  section { break-inside: avoid; }
+}

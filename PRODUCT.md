@@ -1,4 +1,4 @@
-# Product
+﻿# Product
 
 <!-- impeccable:product-schema 1 -->
 
@@ -6,22 +6,22 @@
 
 web
 
-## Users
-
-Organisateur d’un voyage au départ de Lyon, adultes et mineurs, pour City–Chelsea les 12 et 13 décembre 2026.
-
 ## Product Purpose
 
-Comparer vols et hébergements près du stade, puis préparer un devis lorsque les effectifs et les âges seront connus.
+Présenter une fiche synthétique sans navigation : vol aller, hôtel retenu et vol retour.
 
 ## Stack
 
-Choix d’implémentation : page HTML/CSS statique, adaptée au dépôt vide et à GitHub Pages demandé. Aucun framework demandé.
+HTML et CSS statiques, GitHub Pages dans dev75008/mancity.
+
+## Users
+
+Groupe de 18 personnes : 10 adultes et 8 enfants malades, mention explicitement demandée par l’organisateur pour la page. Aucun nom ni renseignement individuel de mineur à publier.
 
 ## Capabilities and Constraints
 
-Publication dans dev75008/mancity. Aucun achat. Prix datés, sources et incertitudes visibles. Nombre exact, âges et plafond hôtel non confirmés. Aucun renseignement personnel de mineur à publier.
+Hôtel retenu : ibis budget Manchester Centre Pollard Street, 2 Pollard St, Manchester M4 7DB, Royaume-Uni. Page unique sans onglets ni rubriques secondaires. Aucun achat effectué par l’agent.
 
 ## Evidence on Hand
 
-Calendrier officiel Chelsea, recherche Booking.com datée. Captures fournies le 6 novembre 2026 : aller Jet2 LS946 le 12 décembre, 10 h 45 à 11 h 45 ; retour Brussels Airlines SN2178 et SN3593 le 13 décembre, Manchester 17 h 25, Bruxelles 19 h 50 à 21 h 05, Lyon 22 h 30, total 4 h 05, statut « Traitement ». Aucun prix sur les captures et aucun tarif adolescent confirmé.
+Captures fournies le 6 novembre 2026 : aller Jet2 LS946 le 12 décembre, Lyon 10 h 45, Manchester 11 h 45 ; retour Brussels Airlines le 13 décembre, Manchester 17 h 25, Bruxelles 19 h 50 à 21 h 05, Lyon 22 h 30.
