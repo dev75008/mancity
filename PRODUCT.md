@@ -8,7 +8,7 @@ web
 
 ## Product Purpose
 
-Présenter une fiche synthétique sans navigation : vol aller, hôtel retenu et vol retour.
+Présenter une fiche synthétique sans navigation : vol aller, hôtel retenu, match Manchester City–Chelsea et vol retour. Le but du voyage est d’emmener des enfants malades voir Manchester City.
 
 ## Stack
 

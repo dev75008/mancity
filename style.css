@@ -35,6 +35,10 @@ address { font-style: normal; }
 .stay p { margin: 16px 0 0; color: var(--muted); font-size: 16px; }
 .connection { margin: 20px 0; padding-block: 12px; border-block: 1px solid var(--line); color: var(--muted); font-size: 15px; }
 .local-times { margin: 0 40px; color: var(--muted); font-size: 14px; }
+.match { border-bottom: 1px solid var(--line); }
+.match h3 { margin: 20px 0 12px; font-size: 23px; line-height: 1.4; }
+.match p { margin: 12px 0; }
+.match img { display: block; width: 100%; height: auto; margin-top: 24px; }
 @media (max-width: 560px) {
   .trip { width: calc(100% - 32px); margin-block: 16px 28px; }
   .trip-header, section { padding: 28px 24px; }
