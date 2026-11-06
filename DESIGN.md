@@ -1,4 +1,4 @@
-﻿# Direction réalisée
+# Direction réalisée
 
 Fiche de séjour unique, sans navigation ni onglets. Identité conservée : bleu ciel #6cabdd, marine #092f4f, blanc et fond secondaire #eaf4fb. Lecture Arial, titres Georgia.
 
@@ -6,4 +6,4 @@ En-tête : destination, dates, but du voyage et composition du groupe. Puis quat
 
 HTML sans JavaScript, colonnes flexibles pour les horaires, mise en page mobile prévue dans le CSS. Rendu navigateur non vérifié.
 
-Images fournies par l’organisateur : cœur multicolore transparent dans l’en-tête avec www.edesonprochain.fr en légende ; portrait de Rayan Cherki dans un panneau marine avec nom du joueur, intention du voyage, rencontre, lieu et horaires. Les images originales sont conservées dans assets/association-coeur.png et assets/rayan-cherki.png. Aucun effet ni retouche sur les images. Le panneau se place en une colonne sur mobile.
+Images fournies par l’organisateur : cœur multicolore transparent dans l’en-tête avec www.aidersonprichain.fr en légende ; portrait de Rayan Cherki dans un panneau marine avec nom du joueur, intention du voyage, rencontre, lieu et horaires. Les images originales sont conservées dans assets/association-coeur.png et assets/rayan-cherki.png. Aucun effet ni retouche sur les images. Le panneau se place en une colonne sur mobile.
